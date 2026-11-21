@@ -68,5 +68,6 @@ public class TestRunSummary {
         );
 
         new TestRunSummary().printSummary(run);
+        
     }
 }
